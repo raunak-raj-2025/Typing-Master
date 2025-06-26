@@ -39,6 +39,7 @@ A GUI-based **Typing Speed Tester App** built using **Python** and **Tkinter**. 
 
 A short demo of the app in action:  
 📹 `demo.mp4` (open in any video player)
+![Typing Master Video](demo.mp4)
 
 ---
 
